@@ -2,7 +2,7 @@
 
 A fully functional **music streaming app** built with **Next.js App Router**, showcasing audio playback, playlist management, and server-side song streaming. This project demonstrates full-stack skills with a custom **Node.js + Express backend** for audio handling and song delivery.
 
-🚀 **Live Demo**: [Sailsify](https://deplyed-muic.com)
+🚀 **Live Demo**: [Sailsify](https://sailsify.vercel.app/)
 
 ---
 
